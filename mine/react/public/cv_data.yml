@@ -1,0 +1,99 @@
+version: 1
+
+header:
+  name: "Htet Arkar"
+  tags:
+    - "Undergraduate Student, Computer Science and Engineering"
+    - "Chung-Ang University, Republic of Korea"
+  contact:
+    email:
+      value: "hak3601@cau.ac.kr"
+      icon: "fa-solid fa-envelope"
+    website:
+      value: "github.com/hak3601"
+      icon: "fa-brands fa-github"
+      href: "https://github.com/YOUR_GITHUB_ID"
+    # You can uncomment phone if you want it shown
+    # phone:
+    #   value: "+82-10-XXXX-YYYY"
+    #   icon: "fa-solid fa-phone"
+
+sections:
+  - id: aboutMe
+    title: "About Me"
+    entries:
+      - content:
+          - "I am an undergraduate student researcher at Machine INtelligent & Data Science (MINDS) Lab."
+          - "My interests lie in AI and data mining, with a focus on Graph Mining and Social Data Science."
+          - "I am particularly interested in fairness, interpretability, and socially responsible machine learning."
+          - "I aim to develop models that are not only accurate, but also robust, transparent, and applicable to real-world social and data-driven systems."
+          - "I plan to pursue graduate studies in Data Science with a focus on AI and Sociology."
+        meta: []
+
+
+  - id: educationEntries
+    title: "Education"
+    entries:
+      - content:
+          - "B.S. in Computer Science and Engineering (Expected 2027)"
+          - "Chung-Ang University"
+          - "Seoul, Republic of Korea"
+        meta:
+          - "2023 - Present"
+      # Add more schools if applicable
+      # - content:
+      #     - "High School Diploma"
+      #     - "YOUR HIGH SCHOOL NAME"
+      #     - "CITY, COUNTRY"
+      #   meta:
+      #     - "YYYY - YYYY"
+
+  - id: researchInterests
+    title: "Research Interests"
+    entries:
+      - content:
+          - "Fairness-aware Graph Learning"
+          - "Social Networks Analysis"
+          - "Applied Machine Learning for Real-World Decision-Making"
+        meta: []
+
+  - id: academicAppointments
+    title: "Research & Academic Experience"
+    entries:
+      - content:
+          - "Undergraduate Student Researcher"
+          - "Machine INtelligent & Data Science (MINDS) Lab, Chung-Ang University"
+          - "Advisor: Prof. Yunyong Ko"
+        meta:
+          - "04/2024 – Present"
+      # If you had TA or mentoring roles, add here:
+      # - content:
+      #     - "Teaching Assistant, COURSE_NAME"
+      #     - "Department of Software, Chung-Ang University"
+      #   meta:
+      #     - "MM/YYYY – MM/YYYY"
+
+
+  - id: skills
+    title: "Skills"
+    entries:
+      - content:
+          - "Programming: Python, C/C++, Java, JavaScript"
+          - "ML / DL: PyTorch, NumPy, pandas, scikit-learn, Stable-Baselines3, Ray RLlib"
+          - "Data & Visualization: Matplotlib, seaborn, LaTeX, Jupyter"
+          - "Tools: Git, Docker, Linux (Ubuntu), Virtual Environments (venv, conda)"
+        meta: []
+
+  
+
+  - id: mediaCoverageEntries
+    title: "Miscellaneous"
+    entries:
+      - content:
+          - "Languages"
+          - "Korean (TOPIK Level 5), English (Fluent), Burmese (Native)"
+        meta: []
+      - content:
+          - "Interests"
+          - "Knowledge graphs, fair ML, reinforcement learning, robotics, VR/AR, science communication."
+        meta: []
