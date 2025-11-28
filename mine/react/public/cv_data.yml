@@ -12,7 +12,11 @@ header:
     website:
       value: "github.com/hak3601"
       icon: "fa-brands fa-github"
-      href: "https://github.com/YOUR_GITHUB_ID"
+      href: "https://github.com/hak3601"
+    linkedin:
+      value: "linkedin.com/in/h-arkar"
+      icon: "fa-brands fa-linkedin"
+      href: "https://www.linkedin.com/in/h-arkar"
     # You can uncomment phone if you want it shown
     # phone:
     #   value: "+82-10-XXXX-YYYY"
@@ -23,11 +27,13 @@ sections:
     title: "About Me"
     entries:
       - content:
-          - "I am an undergraduate student researcher at Machine INtelligent & Data Science (MINDS) Lab."
-          - "My interests lie in AI and data mining, with a focus on Graph Mining and Social Data Science."
-          - "I am particularly interested in fairness, interpretability, and socially responsible machine learning."
-          - "I aim to develop models that are not only accurate, but also robust, transparent, and applicable to real-world social and data-driven systems."
-          - "I plan to pursue graduate studies in Data Science with a focus on AI and Sociology."
+          - "
+          I am an undergraduate student researcher at Machine INtelligent & Data Science (MINDS) Lab. 
+          My interests lie in AI and data mining, with a focus on Graph Mining and Social Data Science.
+          I am particularly interested in fairness, interpretability, and socially responsible machine learning.
+          I aim to develop models that are not only accurate, but also robust, transparent, and applicable to real-world social and data-driven systems.
+          I plan to pursue graduate studies in Data Science with a focus on AI and Sociology.
+          "
         meta: []
 
 
